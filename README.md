@@ -16,4 +16,4 @@
 ```
 cd ./node_modules/react-native
 npm start
-``
+
