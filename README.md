@@ -1,4 +1,4 @@
-# ReactNativeDemo-master
+# ReactNativeDemo
 使用ReactNative编写的一个原生App应用，并在CodePush上热部署。
 
 ### 安装 react native
